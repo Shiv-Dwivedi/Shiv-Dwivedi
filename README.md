@@ -29,7 +29,7 @@ I’m a Computer Science student passionate about building things that make an i
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shiv-Dwivedi&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://streak-stats.demolab.com/?user=Shiv-Dwivedi&theme=radical" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=Shiv-Dwivedi&theme=radical](https://streak-stats.demolab.com?user=Shiv-Dwivedi&theme=tokyonight-duo&hide_border=true" height="180px"/>
 </p>
 
 
