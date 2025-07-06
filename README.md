@@ -32,7 +32,7 @@ I love building security tools, bots, and full-stack applications — with an ey
 - REST APIs, Pyrogram (Telegram Bots), Postman
 
 ### 🧰 Tools & Platforms
-- Linux (RHEL, Ubuntu, Kali), Git, MongoDB, MySQL, VS Code
+- Linux (RHEL), Git, MongoDB, MySQL, VS Code
 
 ---
 
