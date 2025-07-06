@@ -20,21 +20,33 @@ I love building security tools, bots, and full-stack applications — with an ey
 
 ## 🧠 Technical Skills
 
-## 🧠 Technical Skills
-
 ### 👨‍💻 Programming
 - Python, Java, JavaScript (ES6+), C (Basics)
+
+### 🛡️ Cybersecurity
+- VAPT · OWASP Top 10 · Network Security · Kali Linux
+- Burp Suite, Nmap, SQLi, XSS, automation scripts
 
 ### 🌐 Web & Backend
 - MERN Stack (MongoDB, Express, React, Node.js)
 - REST APIs, Pyrogram (Telegram Bots), Postman
 
-### 🛡️ Cybersecurity
-- VAPT · OWASP Top 10 · Network Security · Kali Linux
-- Experience with Burp Suite, Nmap, SQLi, XSS, and automation tools
-
 ### 🧰 Tools & Platforms
 - Linux (RHEL, Ubuntu, Kali), Git, MongoDB, MySQL, VS Code
+
+---
+
+### ⚙️ Core Stack Highlights
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Kali-informational?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
